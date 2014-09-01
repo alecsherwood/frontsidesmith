@@ -5,8 +5,7 @@ body {
 }
 .nav {
 	margin-bottom: 0px;
-	color:#D1DCD6;
-	padding:.5%;
+	color:#D1DCD6; margin: 0px;
 }
 
 .navbar-header .navbar-brand{
